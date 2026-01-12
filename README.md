@@ -11,6 +11,7 @@ Usage:
 
 EXAMPLE OUTPUT
 
+```
 Claude Housekeeping Report
 
   Scope: user (~/.claude)
@@ -207,7 +208,7 @@ Claude Housekeeping Report
   - Specific numbers - e.g., "1, 4, 5, 8"
 
   I'll create backups before any MEDIUM+ risk operations.
-
+```
 LICENSE
 
 MIT
